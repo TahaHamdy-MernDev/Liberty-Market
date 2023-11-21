@@ -1,0 +1,2 @@
+# Liberty Market (Bootstrap v5)
+- Liberty NFT Market is a professional website design for NFT related websites. This HTML CSS template is based on Bootstrap version 5. There are 5 HTML pages included in this template for maximum flexibility and customization options. This theme is based on neon color graphics.
